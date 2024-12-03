@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: gainsboro;
+}
+
+ul{
+    list-style: none;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+img{
+    display: inline-block;
+}
+
+span{
+    display: inline-block;
+}
+
+button{
+    border: none;
+    display: inline-block;
+}
