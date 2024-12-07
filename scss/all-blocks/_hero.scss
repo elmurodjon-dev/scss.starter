@@ -1,0 +1,52 @@
+.hero-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 115px;
+    position: relative;
+    h4{
+        b{
+            width: 132.63px;
+            height: 30px;
+            margin-bottom: 100px;
+            top: 100px;
+        }
+    }
+
+    h1{
+        b{
+            margin-top: 10px;
+        }
+    }
+}
+
+
+.btn-img{
+    position: absolute;
+    left: 320px;
+    
+}
+
+.hero-right-list{
+    margin-bottom: 50px;
+}
+
+.hero2{
+    width: 100%;
+    height: 600px;
+    background-color: #A78BFA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.hero2-container{
+    width: 1100px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
